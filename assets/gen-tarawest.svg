@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1651 574" role="img" aria-label="TaraWest">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#EFF5FC"/>
+      <stop offset="1" stop-color="#DEEAF7"/>
+    </linearGradient>
+    <pattern id="p" width="120" height="120" patternUnits="userSpaceOnUse" patternTransform="rotate(8)">
+      <g opacity="0.16" fill="none" stroke="#3F86C6" stroke-width="3">
+        <circle cx="52" cy="52" r="22"/>
+        <circle cx="52" cy="52" r="12"/>
+      </g>
+      <circle cx="52" cy="52" r="4.5" fill="#3F86C6" opacity="0.16"/>
+    </pattern>
+  </defs>
+  <rect width="1651" height="574" fill="url(#bg)"/>
+  <rect width="1651" height="574" fill="url(#p)"/>
+</svg>
